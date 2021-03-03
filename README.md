@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![badge](http://42.194.215.185:8008/mirrors/get/FATE-Board/badge.svg)](http://42.194.215.185:8008/mirrors/get/FATE-Board/badge.svg)
 <!--
 **weiwee/weiwee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
