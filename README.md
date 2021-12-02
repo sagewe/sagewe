@@ -1,3 +1,5 @@
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src=./cat.jpeg width="350" align="right" /></a>
 ### Hello World, I'm Sage 👋
 
 [![focus](https://img.shields.io/badge/focus-privacy%20computing-3c9)](https://github.com/FederatedAI/FATE)
