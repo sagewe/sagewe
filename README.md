@@ -12,9 +12,3 @@
 
 <br />
 <img src=https://github-readme-stats.vercel.app/api?username=weiwee&show_icons=true />
-
-> **Note**
-> This is a note
-
-> **Warning**
-> This is a warning
