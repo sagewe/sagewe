@@ -11,4 +11,3 @@
 ![visitors](https://visitor-badge.herokuapp.com/badge?page_id=weiwee.github.profile)
 
 <br />
-<img src=https://github-readme-stats.vercel.app/api?username=weiwee&show_icons=true />
