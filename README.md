@@ -7,7 +7,3 @@
 [![focus](https://img.shields.io/badge/focus-graph%20learning-3c9)](https://github.com/Angel-ML/angel)
 
 [![focus](https://img.shields.io/badge/focus-distributed%20computing-3c9)](https://github.com/Angel-ML/angel)
-
-![visitors](https://visitor-badge.herokuapp.com/badge?page_id=weiwee.github.profile)
-
-<br />
